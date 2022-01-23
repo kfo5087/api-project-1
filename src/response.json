@@ -1,0 +1,36 @@
+[{
+    "location": "Westgate Building E205",
+    "start_time": "2022-01-24T11:15",
+    "end_time": "2022-01-24T12:05",
+    "details": "SRA 421 - The Intelligence Enviornment",
+    "order": "1"
+},
+{
+    "location": "ZOOM",
+    "start_time": "2022-01-24T14:30",
+    "end_time": "2022-01-24T15:45",
+    "details": "IST 452 - Legal and Regulatory Environment of Privacy and Security",
+    "order": "2"
+},
+{
+    "location": "ZOOM",
+    "start_time": "2022-01-24T16:00",
+    "end_time": "2022-01-24T17:15",
+    "details": "SRA 468 - Spatial Analysis of Risks",
+    "order": "3"
+},
+{
+    "location": "Keller Building 110",
+    "start_time": "2022-01-25T10:35",
+    "end_time": "2022-01-25T11:50",
+    "details": "IST 301 - Information and Organizations",
+    "order": "4"
+},
+{
+    "location": "Wartik Lab 108",
+    "start_time": "2022-01-25T12:05",
+    "end_time": "2022-01-25T13:20",
+    "details": "IST 402 - Emerging Issues and Technologies, with some crazy joker fan guy",
+    "order": "5"
+}
+]
